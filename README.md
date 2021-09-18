@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+＃＃欢迎来到宗圣博的博客
 
 You can use the [editor on GitHub](https://github.com/zongsss/zongsss.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
